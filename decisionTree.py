@@ -1,5 +1,5 @@
 #sumber : http://www.cs.cmu.edu/~bhiksha/courses/10-601/decisiontrees/
-#ini merupakan contoh decision tree yang akan kita buat untuk menunjang kita.
+#ini merupakan pseudocode decision tree yang akan kita buat untuk menunjang kita.
 
 #------- Some "Helper" functions ---------------
 # Segregating out instances that take a particular value
